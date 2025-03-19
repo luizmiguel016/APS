@@ -1,0 +1,130 @@
+# Diário da aula 2
+Data: 18/03/2025
+
+## Dados do professor
+Professor: Helio Toshio Kamakawa
+Matricula: 2277466
+E-mail: helio.kamakawa@ifpr.edu.br
+
+## Dados do aluno
+Aluno: Luiz Miguel dos Santos da Silva
+E-mail: 20241PVAI10030035@estudantes.ifpr.edu.br
+Turma: 2° ano de Engenharia de Software
+
+# Retomada
+- Ciclo de Desenvolvimento
+  - estruturação/conhecimento -> execução/desenvolvimento -> finalização/implementação
+  - Validação e Verificação
+- Qualidade de Softawre & Engenharia de Softawre - Análise e Projeto de Sistemas;
+- Planejamento x execução - questionamento/conhecimento;
+- Validar -> ver se está certo
+- Verificar -> se estou fazendo certo
+---
+
+# Diário
+## Ciclo de vida de um desenvolvimento de software
+1° Levantamento de dados
+  Entender oque o cliente precisa
+2° Analise de requisitos
+  O que é necessario
+3° Modelagem do Software
+  Projetar o software
+  EX: UML, Propotipação de telas
+4° Desenvolvimento
+  Codificação/implementação
+5° Teste
+6° Implantação
+7° Manutenção
+
+## Modelos
+- Como será implementado o ciclo
+
+### Cascata
+- Usa SDLC -> 7° ciclo
+- Mais fácil de se utilizar 
+- 1° Levantamento de requisitos
+  - Todo o projeto
+  - 2 meses
+- 2° Análise de requisitos
+  - 2 meses
+- 3° Modelagem
+  - 8 meses
+- 4° Teste
+
+1 problema -> errou no requisitos, perdeu 2 anos
+2 problema -> cliente insatisfeito, perdeu 2 anos (erro de comunicação -> cliente falou errado, analista entendeu errado,
+cliente não sabe o que quer, requisitos mal feitos)
+3 problema -> cliente não precisa mais do seu software, perdeu 2 anos
+
+### Incremental
+- Define o MVP > mininmo que o cliente precisa para funcionar
+- Incrementa o restante
+- Reduz o tempo 
+
+### Espiral
+- Foco na interatividade
+- Cliente participa de todas as fases
+  - Pode ser alguem que saiba dos requisitos
+
+## Metodologia
+- Scrum, 
+
+### ** Metodologia agil** -> solucionar os problemas dos modelos
+  Iterativa (conversa) e incremental (pequenas entregas) entregas (constantes) significativas (o que o cliente
+  precisa) para o cliente
+
+#### Valores
+  -> Dar mais valor para a iterativiade do cliente do que o contrato.
+  - Precisa do cliente (o que)
+  - Equipe de software (o que)
+  - Processo (o que)
+    - Em relação ao plano: 
+  - Software concluído (o que) 
+  - priorizar o programa funcionando, do que documentar os erros
+
+Scrum japonesa / kanban (gestão de projeto -> pessoa)
+- Auxiliar para metodologias ágeis.
+
+# Atividade em equipe
+Tema: Projeto de Software
+  - Buscar fontes confiáveis e referenciar no DA;
+  - Busque pelo menos 3 diferentes exemplos de ciclos de vida de desenvolvimento de softare (SDLC);
+  - Faça a análise dos SDLCs encontradas, verifique as fases e classifique em Estruturação, Execução e Finalização;
+  - Cite metodologias ágeis;
+  - 30 minutos para produção.
+---
+# O que é o SDLC? -> fonte: https://aws.amazon.com/pt/what-is/sdlc/
+- É uma forma econômica e rápida que os times de desenvolvimento usam para planejar e criar um software de alta qualidade. 
+- O propósito do SDLC é eliminar o máximo de riscos para o projeto por meio do planejamento antecipado
+- Apresenta um software que atenda às expecitativas do cliente no decorrer e depois da produção.
+- Segrega o processo de desenvolvimento de software em tarefas que possa ser atribuido, concluído e avaliado.
+---
+# Análise dos SDLCs
+## Modelo ágil 
+- É um método flexível e iterativo para a construção de softawre;
+- Prioriza a cooperação, adaptação e feedback do cliente;
+- Acontece em ´sprints´ (pequenos ciclos incrementais);
+- Forma de funcionamento:
+  - Análise constante para que reajuste de direções possam ser feitas facilmente;
+- Desvantagem:
+  - Requer um gerenciamente minucioso da comunicação, principalmente em equipes com grande volume;
+  
+## Modelo iterativo 
+- Reparte o projeto em pequenos objetivos (iterações);
+- Essas iterações produz uma pequena parte funcional do software;
+- No fim de cada iteração, o software é validado e aprimorado conforme o feedback até que o produto final supra todos os 
+requisitos;
+- Possui etapas definidas, priorizando apenas em melhorias incrementais.
+- Vatanges:
+  - Melhor administração do escopo, tempo e recursos, naturalizando a detecção repentino de problemas técnicos ou 
+  arquitetônicos.
+- Desvantagens:
+  - Há escopo limitado para adaptação a requisitos em evolução ao longo do projeto. 
+  - Se um erro não for notado, todas as iterações antigas deverão ser retrabalhadas (dívida técnica)
+
+## Modelo modelo v
+- Prioriza testes em cada estágio do desenvolvimento;
+- Cada fase no processo tem uma fase de teste correspondente, assegurando que a validação e a verificação sejam constantes;
+- O "V" descreve como validação e verificação são trabalhados paralelamente, mas que induzem o projeto a uma única conclusão,
+sendo ela à fase de Implementação, onde a codificação se inicia.
+- Garante a identificação precoce, mas pode ser inviável se aplicado a projetos complexos que precisam de mudanças frequentes.
