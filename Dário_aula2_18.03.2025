@@ -27,13 +27,15 @@ Turma: 2° ano de Engenharia de Software
   Entender oque o cliente precisa
 2° Analise de requisitos
   O que é necessario
-3° Modelagem do Software
+3° Modelagem de sistemas
   Projetar o software
   EX: UML, Propotipação de telas
 4° Desenvolvimento
   Codificação/implementação
 5° Teste
+  Testar o software
 6° Implantação
+  Cliente testa se esta tudo certo
 7° Manutenção
 
 ## Modelos
@@ -43,7 +45,7 @@ Turma: 2° ano de Engenharia de Software
 - Usa SDLC -> 7° ciclo
 - Mais fácil de se utilizar 
 - 1° Levantamento de requisitos
-  - Todo o projeto
+  - Todo o projeto -> Precisa finalizar uma etapa para começar a outra
   - 2 meses
 - 2° Análise de requisitos
   - 2 meses
@@ -51,27 +53,46 @@ Turma: 2° ano de Engenharia de Software
   - 8 meses
 - 4° Teste
 
+(Mal entrega)
+1 entrega apenas.
 1 problema -> errou no requisitos, perdeu 2 anos
 2 problema -> cliente insatisfeito, perdeu 2 anos (erro de comunicação -> cliente falou errado, analista entendeu errado,
 cliente não sabe o que quer, requisitos mal feitos)
-3 problema -> cliente não precisa mais do seu software, perdeu 2 anos
+3 problema (mudanças) -> cliente não precisa mais do seu software, perdeu 2 anos
 
 ### Incremental
-- Define o MVP > mininmo que o cliente precisa para funcionar
-- Incrementa o restante
-- Reduz o tempo 
+- Interação com o cliente no começo e no final;
+- Define o MVP > mininmo que o cliente precisa para funcionar e entrega;
+- Incrementa o restante;
+- Reduz o tempo com várias entregas.
+
+Problemas:
+- O mesmo que o cascata, mas com várias entregas
 
 ### Espiral
+Agregou a interação
 - Foco na interatividade
 - Cliente participa de todas as fases
   - Pode ser alguem que saiba dos requisitos
 
+Problemas:
+- Muita subjetividade (cliente não sabe o que quer e o engenheiro não sabe separar)
+
+# Surgindo as metodologias
+
 ## Metodologia
 - Scrum, 
 
-### ** Metodologia agil** -> solucionar os problemas dos modelos
+### ** Metodologia agil** (17 especialistas desenvolveram) -> solucionar os problemas dos modelos
   Iterativa (conversa) e incremental (pequenas entregas) entregas (constantes) significativas (o que o cliente
   precisa) para o cliente
+- Cliente
+- Equipe (metodo agil -> o que faz a diferença é a pessoa e nao a ferramenta)
+- processo (aberto para mudanças, pois surgem muitas)
+- Softawre (deve estar funcionando, que é mais importante do que um documento muito detalhado).
+
+# Por que estudar o modelos de SDLC antigos:
+- Olhar o passado para não errar no futuro
 
 #### Valores
   -> Dar mais valor para a iterativiade do cliente do que o contrato.
