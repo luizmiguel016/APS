@@ -1,0 +1,44 @@
+# Diario da Aula
+
+- Levantamento de requisitos
+  - Errou aqui ja era.
+  
+  - Conhecer certo
+    - Conhecer certo -> entender bem o que o cliente precisa  
+      - 3 erros
+        - Comunicação por parte dos dois (mais falho no desen. de software)
+        - Interpretação -> cada um interpreta de um jeito, mesmo entendendo certo
+        - Cliente com falta de conhecimento (não saber o que quer) ou o analista não ter conhecimento.
+          
+  - Analisar ceto 
+    - Definir certo
+    - Erro técnico 
+    - Erro de experiência
+    
+  - Descrever certo
+
+  - Envolvido com o Stakeholders (todo mundo: equipe técnica, cliente, terceirizados)
+  - Técnicas de Lvantamento de dados;
+    - Pesquisa de mercado;
+      - Essencial para qualquer levantamento -> entender bem  dominio, qual escopo, funcionalidade, dor do cliente, quais especialidades podem ser desenvolvidas, se é viável, custo;
+      - Entrevistas -> primeiro contato com o cliente -> pergunta e resposta (dinâmico, como se fosse uma conversa);
+      - Etnografia (grupo homogêneio) -> Domínio, empresa. Vivencia o que precisa ser feito (convive com a empresa);
+      - Observação -> Subtipo que é mais limitado da etnografia, de certo ponto (de longe) você observa;
+    - Questionário -> estático, você define e manda (quando não consegue ter contato, ou que não seja viável no momento ou na situação);
+    - Workshops -> quando não tem a menor noção do que precisa ser feito (define mais ou menos o que precisa ser feito) -> cria um modelo para criar a solução;
+    - Joint aplication design -> noção clara do que precisa ser feito, e junto com a equipe e com o cliente, busca uma solução técnica
+    - Prototipação (validação, para ver se a comunicação está correta) -> Cria um protótipo (conceitual (desenhar as telas) ou prático (faz as telas e vai formando) -> diagrama UML, banco de dados
+    - Análise documental (empresa-cliente) -> forma de validação. Relatório: formato, quais dados foram inseridos, diretrizes, regras de setor (todo documento da empresa que ajuda do que precisa ser feito)
+      pode ser em pesquisa de mercado (antes de ir fazer a análise, se interar no assunto e abranger seu conhecimento), sendo encontrados em páginas de softawre.
+    - Permissões -> cuidado com a comunicação (prototipação), viés que atrapalham, interpretação, usar mais do que uma técnica.
+---
+Pesquisar coisas de mercado sobre gestão de empréstimos.
+
+# Planejamento
+1° Quais tipos de materiais podem ser emprestados?
+2° Existe um tempo limite para empréstimo?
+3° Pode ir qualquer horário para fazer a solicitação?
+4° De que forma é feito o empréstimo? (Presencial? Formulário?)
+5° Pode prolongar o empréstimo?
+6° Existem empréstimos restritos para alunos, professores ou comunidade externa?
+7° 
