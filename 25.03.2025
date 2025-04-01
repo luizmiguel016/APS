@@ -33,12 +33,38 @@
       pode ser em pesquisa de mercado (antes de ir fazer a análise, se interar no assunto e abranger seu conhecimento), sendo encontrados em páginas de softawre.
     - Permissões -> cuidado com a comunicação (prototipação), viés que atrapalham, interpretação, usar mais do que uma técnica.
 ---
-Pesquisar coisas de mercado sobre gestão de empréstimos.
-
-# Planejamento
+# Planejamento para as perguntas
 1° Quais tipos de materiais podem ser emprestados?
 2° Existe um tempo limite para empréstimo?
 3° Pode ir qualquer horário para fazer a solicitação?
 4° De que forma é feito o empréstimo? (Presencial? Formulário?)
 5° Pode prolongar o empréstimo?
 6° Existem empréstimos restritos para alunos, professores ou comunidade externa?
+---
+#Sistema de Empréstimo de Itens
+- O usuário que administra o sistema pode cadastrar itens para empréstimo. A demanda principal é a criação de relatórios que viabilizam auditorias
+sobre os empréstimos feitos, com informações tanto dos itens, quanto dos usuários envolvidos.
+
+#Informações Básicas para o Controle de Empréstimos (Caso de uso: Instituto)
+- Quantidade
+- Descrição do Item
+- Patrimônio (identificação da unidade emprestada)
+- Data de saída
+- Responsável pelo empréstimo
+- Data de devolução
+- Visto de recebimento
+
+#Sistemas de Gestão de materiais
+1. Philips Tasy
+## Descrição
+  Gerenciador geral de empresas, que possibilita o gerenciamento de materiais, com foco no controle de empréstimos.
+
+## Funcionalidades
+  - **Solicitação e gerenciamento de empréstimos**: (quantidade, data de devolução e aprovação do controle);
+  - **Histórico de empréstimos**: Registro detalhado de todos os empréstimos efetuados;
+  - **Devolução dos itens**: Verificação automática da situação atual dos itens devolvidos;
+  - **Gestão de empréstimos**: Fornece uma tela com a lista dos empréstimos e seus dados importantes, e outra tela à direita exibe os materiais solicitados;
+  - **Movimentação unificada do estoque**: Possibilita a gestão do estoque de diferentes tipos de empresas;
+  - **Cadastro e edição de empréstimos**: Após o cadastro, ainda é possível incluir e remover itens, e realizar consultas detalhadas;
+  - **Consulta de empréstimos**: A consulta é aplicada por filtros;
+  - **Gerência de inventário**: Permite o cadastro de itens disponíveis para empréstimo.
