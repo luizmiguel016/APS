@@ -42,7 +42,7 @@ Turma: 2° ano de Engenharia de Software
     - Prototipação (validação, para ver se a comunicação está correta) -> Cria um protótipo (conceitual (desenhar as telas) ou prático (faz as telas e vai formando) -> diagrama UML, banco de dados
     - Análise documental (empresa-cliente) -> forma de validação. Relatório: formato, quais dados foram inseridos, diretrizes, regras de setor (todo documento da empresa que ajuda do que precisa ser feito)
       pode ser em pesquisa de mercado (antes de ir fazer a análise, se interar no assunto e abranger seu conhecimento), sendo encontrados em páginas de softawre.
-    - Permissões -> cuidado com a comunicação (prototipação), viés que atrapalham, interpretação, usar mais do que uma técnica.
+    - Permissões -> cuidado com a comunicação (prototipação - validação), viés que atrapalham, interpretação, usar mais do que uma técnica.
 ---
 # Planejamento para as perguntas
 1° Quais tipos de materiais podem ser emprestados?
