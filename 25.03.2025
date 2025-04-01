@@ -1,5 +1,16 @@
-
 # Diario da Aula
+Data: 25/03/2025
+
+## Dados do professor
+Professor: Helio Toshio Kamakawa
+Matricula: 2277466
+E-mail: helio.kamakawa@ifpr.edu.br
+
+## Dados do aluno
+Aluno: Luiz Miguel dos Santos da Silva
+E-mail: 20241PVAI10030035@estudantes.ifpr.edu.br
+Turma: 2° ano de Engenharia de Software
+
 
 - Levantamento de requisitos
   - Errou aqui ja era.
@@ -7,7 +18,7 @@
   - Conhecer certo
     - Conhecer certo -> entender bem o que o cliente precisa  
       - 3 erros
-        - Comunicação por parte dos dois (mais falho no desen. de software)
+        - Comunicação por parte dos dois (mais falho no desenvolvimento de software)
         - Interpretação -> cada um interpreta de um jeito, mesmo entendendo certo
         - Cliente com falta de conhecimento (não saber o que quer) ou o analista não ter conhecimento.
           
