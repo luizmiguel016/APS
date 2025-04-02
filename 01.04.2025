@@ -1,0 +1,79 @@
+Diário 
+Data: 01/04/2025
+
+## Dados do professor
+Professor: Helio Toshio Kamakawa
+Matricula: 2277466
+E-mail: helio.kamakawa@ifpr.edu.br
+
+## Dados do aluno
+Aluno: Luiz Miguel dos Santos da Silva
+E-mail: 20241PVAI10030035@estudantes.ifpr.edu.br
+Turma: 2° ano de Engenharia de Software
+
+# Entrevista
+  - Controle de emprestimo de material
+    - 
+
+# Pesquisar - Engenharia de Requisitos
+
+alunos gostam de emprestar vários tipos de materiais que possibilitam que você crie um acesso a um recurso material e esse recuros material não é determinante mas é um fator esencial pra que você tenha uma formação de qualidade.
+
+no instituto os alunos tem todo um aparato de recursos que estão disponibilizados para nosso uso. porém, os materiais precisam ser cuidados para que possam durar o máximo possível.
+
+então os alunos são orientárdos através de fichários, diálogos para que os launos utilizem os materiais emprestados de maneira correta
+
+então há regras de uso dos materiais, existem regulamentos.
+
+por meio desse controle, possibilita que o material/patrimonio dure o máximo possível. há um controle através de fichários
+
+itens do fichario
+item que está sendo fornecido: sejam livros, cadernos, cartolinas, adaptadores (vga/hdmi) caixa de som, equipamentos de áudio, instrumentos musicais.
+identificacao de quem está emprestando pode ser tanto aluno quanto um servidor. se for um professor, é necessário colocar a turma que será emprestado esse material. se for aluno, coloca a série e o curso do aluno
+horario da retirada
+horario da devolucao
+
+depois que é recolhido o material, é feita uma baixa no material. é verificado se está dentro do regulamento (cuidados, etc)
+
+
+existe um controle digital dos materiais? é feito um laudo via e-mail. quando o aluno está afastado, é posível assinar pelo gov
+
+existe item deconsumo proprio: não leva patrimônio. é um material pro meio, exemplo: cartolina
+material de longa durabilidade precisa ter patrimônio
+
+patrimonios de longa durabilidade existem 
+
+como é feito esse laudo do controle de estado dos materiais
+tem como estender o emprestimo de materiais de longa data?
+  Entra com um processo, com justificaiva (coordenador de curso, SEPAE, direção de ensino)
+    - solicitando o emprestimo de algum material que é emprenssidivel.
+      - pandemia foi emprestado um celular, para o ensino remoto.
+    - assina um termo que se responsabiliza (foi dado em um determinado estado e deve ser de
+    - status de caso tenha algum dano no material
+    - era digital o fichário
+    
+
+
+controle de fluxo de entrada e saida do campus -> 
+
+Controle de tempo em emsa de pimbolim, sala de musica, 
+
+achados e perdidos -> fichario de itens que sao encontrados (categoria)
+- local em que foi perdido, dia horario e quem encontrou. (local indeerminado caso nao tenha informação)
+
+formulario -> talheres, material esportivo, 
+
+SUGESTAO DE FUNCIONALIDADE: CADASTRO DE ITEM DESCARTÁVEL NO MOMENTO DO CADASTRO DE ITEM DE EMPRÉSTIMO
+ITENS DE LONGA DURAÇÃO precisam ter um cadastro completo, com estoque.
+
+3 meses para itens de achado e perdido. 
+achado e perdito: material, nome do aluno e assinatura pra poder retirar.
+
+sugestão: lista de empréstimos com status em vermelho.
+
+empréstimo de itens descartáveis: apenas professores podem retirar. (?)
+
+itens que foram danificados: formulário pra ser preenchido no sistema com integração de envio de e-mail. transformar em um relatório e encaminhar o e-mail para o destinatário padrão
+
+
+depois que um empréstimo é concluído, qual é a movimentação feita à partir disso? 
