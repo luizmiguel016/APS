@@ -4,7 +4,7 @@ Dados do Aluno:
 Nome: Luiz Miguel dos Santos da Silva
 RA: 20241PVAI10030035
 
-Organiza
+# Organização
 
 Todo requisito para ter qualidade, deve ser rastreavel.
 
@@ -22,7 +22,7 @@ Como definir um requisito:
 - LRP000 -> Levantamento de requisitos principal - numeros (o que o software deve fazer)
 - LRE000 -> Levantamento de requisitos especificos  (depois especifica)
 
-- Fase 2 - IdentificaçãO do Requisitos Principal
+- Fase 2 - Identificação do Requisitos Principal
 - Identificar o(s) principal(is) requisito(s).
 - LRP001 - Realizar a gestão de reserva de quadras esportivas de beach tennis e futebol society.
 
@@ -50,3 +50,31 @@ Fase 7 - Validação e Verificacão
 
 Rastreamento - Identificaçao dos principais - especificações - identificaçãO dos atores - complementação funcional
 ------------------------------------------------------------------------------------------------------------------
+
+# Documentação de Requisitos (SRS - Software Requirements Specification) Modelos de documentação:
+- Hierarquia alta que faz 
+- Análise -> Você analisa, questão técnica (conhecimento)
+
+## Fase 01 - Rastreamento
+
+## Fase 02 - Identificação de Cadastros/Entidades
+  - Cadastro -> Cadastro de informações (conjunto de dados das entidades)
+  - Entidade -> Representa um objeto real (concretas -> físico / abstrato -> aula, material)
+  
+## Fase 03 - Identificação de Dependências/Correlações
+  - Identificar as dependências
+    - Um Cliente pode ter várias Reservas.
+    - Uma Quadra pode estar associada a várias Reserva.
+
+## Fase 04 - Definição de Campos e Caraterísticas das Entidades
+  - Atributos de cada entidade (coloca o que precisa)
+
+## Fase 05 - Identificação de Regras de Negócio
+  - Tudo que faz funcionar, com ou sem software
+  - Identificar os campos que serão necessários
+
+## Fase 06 - Identificação de Requisitos não funcionais
+  - Não tem funcionalidade, mas não tem função 
+  - Não coloque o que não faz sentido -> Deve realizar tal tarefa em x tempo 
+
+## 
