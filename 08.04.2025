@@ -1,0 +1,52 @@
+Diário de Aula - 08/04/2025
+
+Dados do Aluno:
+Nome: Luiz Miguel dos Santos da Silva
+RA: 20241PVAI10030035
+
+Organiza
+
+Todo requisito para ter qualidade, deve ser rastreavel.
+
+Como definir um requisito:
+
+- Decompoe em pequenas partes
+
+- Refinir de forma Incremental
+
+* Estrutura das Fases
+
+- Fase 1 - Rastreabilidade
+- Código identificador de requisitos
+- Decomposição de requisitos (árvore)
+- LRP000 -> Levantamento de requisitos principal - numeros (o que o software deve fazer)
+- LRE000 -> Levantamento de requisitos especificos  (depois especifica)
+
+- Fase 2 - IdentificaçãO do Requisitos Principal
+- Identificar o(s) principal(is) requisito(s).
+- LRP001 - Realizar a gestão de reserva de quadras esportivas de beach tennis e futebol society.
+
+- Fase 3 - Especificação (Divisão de coisas diferentes)
+- Objetivo Geral
+  - Objetivo especifico
+- LRP001 - Realizar a gestão de reserva de quadras esportivas de beach tennis e futebol society.
+  - LRE001 - Realizar a gestãO de reserva de quadras de beach.
+  - LRE002 - Realizar a gestãO de reserva de quadras de futebol society.
+
+- Fase 4 - Identificação dos Atores
+- Atores -> Todo mundo que usará o software (agrupar/classificar)
+- Clientes e administradores
+
+- Fase 5 - Complementação
+- Quais são as funcionalidades que foram solicitadas
+
+- Fase 6 - Funcionalidades Fora do Escopo Inicial
+- Identificar a funcionalidade e ver se encaixa na principal inicial, se não for, crie outro requisito principal.
+- Calcula o custo, por ser um sistema a parte e ver se irá manter ou não a funcionalidade
+
+Fase 7 - Validação e Verificacão
+- Fiz isso, é dessa forma que você quer?
+- Ver se irá manter as funcionalidades já selecionadas
+
+Rastreamento - Identificaçao dos principais - especificações - identificaçãO dos atores - complementação funcional
+------------------------------------------------------------------------------------------------------------------
