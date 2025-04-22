@@ -1,0 +1,39 @@
+Diário da Aula 
+# Diagrama de Casos de Uso - UML (linguagem de modelagem universal)
+
+## Por que existe?
+  - Fases do software
+    - 7 fases: Levantamento de dados, análise de dados, modelagem de dados, implementação, testes, implantação, manutenção.
+  - Quantos tipos de fases de software
+    - Moedelos: forma de como executar
+      - Cascata -> 1 entrega, só conversa 1 vez com o cliente
+      - Incremental -> quebra em várias partes o software (não resolveu, erra pequeno)
+      - Espiral -> envolver o cliente sobre o presente e o processo (adicionar a interação)
+    - Com isso, entrou as metodologias -> Scrum, etc...
+
+## Principal
+  - Fácil, visual e rápido.
+
+## Tipos de Diagrama
+  - Estruturais
+    - Definem toda a estrutura do sistema: Como vai ser,
+    - Diagrama de Classe
+    - Diagrama mais técnico, e mais difícil de envolver o cliente, mas muito valioso pra equipe técnica.
+  - Comportamentais
+    - Definem os comportamentos do sistema
+    - Diagrama de Casos de Uso
+    - Envolve mais o cliente, é menos cliente, e é menos técnico para o cliente entender
+    - Validação do cliente
+
+### Depende da empresa para fazer documento
+  - Documento tem que ser enxuto
+
+## Sistema 
+  - Utilizar um retângulo 
+  - Include -> obrigatório a seta é pra fora (de dentro para fora) -> onde vamos ir
+  - Extend -> opcional seta é pra dentro (de la para cá) -> de onde tem que vir
+  - Generalização -> herança (reaproveitar todas as funcionalidades anteriores)
+  - Atores  -> Clientes, adminstradores, suporte, usuário
+
+## Pontilhado significa um relacionamento fraco
+## 
