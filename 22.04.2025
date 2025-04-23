@@ -36,4 +36,19 @@ Diário da Aula
   - Atores  -> Clientes, adminstradores, suporte, usuário
 
 ## Pontilhado significa um relacionamento fraco
-## 
+
+## Atividade 
+- Identifique mais 2 casos de uso para cada autor.
+- Identifique mais 2 extends e 2 includes.
+- Defina mais um ator diferente dos demais e defina a hierarquia.
+    usecase "Cadastrar cliente" as c11
+    usecase "Consultar cliente" as c12
+    usecase "Visualizar histórico de reservas" as c13
+    usecase "Justificar cancelamento" as c14
+
+    c10 .> c04 : <<include>>
+    c11 .> c12 : <<include>>
+    c05 <. c13 : <<extend>>
+    c03 <. c14 : <<extend>>
+
+<img src="//www.plantuml.com/plantuml/png/VPFBRbCn48RtynJMsNJLDiwb5nH5XGeX8R6WIEoDFMr7ScomnmXnUHYUWKVeYs7d677iDF5g9l-NtyvC_fl8Ad3QMh1upuAz2FJmoC9GGCtadG1GcdqGsf9GKGotbj0n3lLZPRRaTiBBKb7ae8mF0-HJB9Hxi2Y63rd0hH86nHr635ztvVkaJ523-04YdnHHgvZXM-zYigpofSgYCq-_0_cXNA9diaLVfQWp5qRFoinRvWwLfUzxrAAbFcAWUofcXk9dx-WJMJBAOCMNtHkLqsZtJ5SjzGO3EaqPOsyoKE5OwOlUCpCSClrb7Cn8NRRKE-KIewEEkjgZ63lakaLU6-B-1yZPeIVfSUyLauSsrcBpRiOKKzt58qL--XD8Us6mculiLlCsHQwxqUFOj-ZOLtW9XIuB5MURiYZnGgpNvBHD1ZURAgx4-gpyDNOYVcDqvfycPqU-AELEbFCZhdBHkjRdZDfoNmFu1L3oT7fQxfMJUZwf5vDwEQbN_sivczGJlWnbbypS_iozfR6j3XTDTzbqLqUwwsadPTFD0U3yHC2puOKsfz174Wwc3_gWmQ5CGHyVE3c76tGcRUrV" alt="Diagrama de Caso de Uso">
